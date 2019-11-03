@@ -1,4 +1,4 @@
-package com.github.spark
+package com.github.spark.batch
 
 import org.apache.spark.sql.SparkSession
 

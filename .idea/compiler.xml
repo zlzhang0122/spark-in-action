@@ -22,10 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="spark-in-action" />
+        <module name="simple-actions" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="simple-actions" target="1.5" />
       <module name="spark-in-action" target="1.5" />
     </bytecodeTargetLevel>
   </component>

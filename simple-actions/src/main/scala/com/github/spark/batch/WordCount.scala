@@ -1,4 +1,4 @@
-package com.github.spark
+package com.github.spark.batch
 
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
